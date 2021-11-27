@@ -1,0 +1,25 @@
+ZombieGrabbableAndCanMove is base version.(check test3 folder)
+Base_MarioWorkingInBigWorld: first version that enable mario to 
+be grabbed from outside and played inside
+
+*******
+Folder: BiggerWorldWithMario
+BigWordFirstVersion
+MarioWorkingInBigWorldAndGetsChased: All zombies are chasing Mario now,
+survivorZombie can get activated by Mario touching doorKnob,
+all can be stopped, placed somewhere else and resumed....will chase Mario
+again
+...........
+Something to Check: SurvivorZombie Audio seems like it has to work like this
+compared to crawler which audio is heard from far away, not loud but it can be heard....SurvivorZombie audio only heard when I get near him, physically.
+
+**********
+Next Folder: Test5
+Work on Grabbble ceiling and check the flashing that happens sometimes
+Ya en este folder........
+El ceiling ya es grabbable
+Hay los flashes que pasan......chekar si se puede disable
+todo el ceiling que supuestamente ya no se ve (el original) y si no 
+borrarlo a ver si se quita eso cuando se agacha y alza la cabeza desde el
+centro......los otros flashes se dan porque creo no estan en el layer "Grab"
+todas las paredes o cubiculos.

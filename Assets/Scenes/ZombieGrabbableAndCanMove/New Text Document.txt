@@ -1,0 +1,8 @@
+All interactable zombies can be grabbed, stopped and resume as agents or obstacles. Lots of disabling in this version, for cubicles shadows and lighting.
+Eating zombie and zombie on floor are the only ones that can't be grabbed.
+The versions that become enabled after approaching them are grabbable
+and can be agents or obstacles.
+Mejore el FPS mas bajo como por 56-58 en el area que siempre me paro, ya con los zombies en el medio y las cosas atras.
+
+Next -> Create new copy folder Test4
+To try new stuff

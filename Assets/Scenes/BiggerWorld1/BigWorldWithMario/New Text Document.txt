@@ -1,0 +1,8 @@
+AllThatISNeedWorking is the last version in this folder:
+All zombies are grabbable, can resume or stop movement
+audio works fine as camera gets near or not...probably just change radius a little
+Two new characters are working fine too...can be grabbed and moved, resume animation
+
+Next Folder: test6
+Either implement next 30%
+Or work on Main Menu

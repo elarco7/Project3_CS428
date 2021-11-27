@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 9370914f7498bba4da6bd5296e916963
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_Back_Mix_Material_(Apple_Logo)Mat
+    second: {fileID: 2100000, guid: edbdac492a2499749bcaebcea96a9b0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_L_+_Space_GrayMat
+    second: {fileID: 2100000, guid: 60dd3f1a88084ce418cfc8bbb3600c0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_L_+_Space_Gray_(Shiny_Parts)Mat
+    second: {fileID: 2100000, guid: 0231a51bf5b27804a93e7bcafdc66b24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_L_-_Space_GrayMat
+    second: {fileID: 2100000, guid: 263787827c0e7494bb5a71cc35f5da2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_L_-_Space_Gray_(Shiny_Parts)Mat
+    second: {fileID: 2100000, guid: 2c95b410d582bc94eaa2188ecc3d1a08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_R_Space_GrayMat
+    second: {fileID: 2100000, guid: 98c76cdd64cddee43a5693f209a53ea1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_R_Space_Gray_(Shiny_Parts)Mat
+    second: {fileID: 2100000, guid: 6fceb95a1e4472b48ac55e9156152f55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button_Rim_Space_Gray_(Shiny_Parts)Mat
+    second: {fileID: 2100000, guid: 04fc67fb34c43384489c8417f826390e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display_DisplayMat
+    second: {fileID: 2100000, guid: d14fbcd6d50214141850408e4e7c27f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display_Plastic_BlackMat
+    second: {fileID: 2100000, guid: 77ded7b73ab4ccc4f8da27b6d14c4f8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display_Rim_Display_Rim_Plastic_(Riough)Mat
+    second: {fileID: 2100000, guid: fe6aa74d2db738345bab764f8fdf08d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dock_Gray_PlasticMat
+    second: {fileID: 2100000, guid: f3c3c7177b7347b44914243ebc19bb66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fingerprint_Sensor_Plastic_BlackMat
+    second: {fileID: 2100000, guid: 15e3b4f04e294a04bb33003b540e2f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flash_Back_Space_Gray_(Shiny_Parts)Mat
+    second: {fileID: 2100000, guid: 8ac166f4b4931c74c8d23e40e215180b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flash_Diode_Lower_Diode_OrangeMat
+    second: {fileID: 2100000, guid: d5d03dfc671d71e40a99ba622a166451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flash_Diode_Upper_Diode_Yellow___GreenMat
+    second: {fileID: 2100000, guid: 1cf96b9e16bd4ae44903176aa5e755b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flash_Flash_Glass_(Bumped)Mat
+    second: {fileID: 2100000, guid: 76f4a83d1793a684a872a190cffd4c37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flash_GlassMat
+    second: {fileID: 2100000, guid: 0c50af02c1438384f874afd854c21c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_Lens_Glass_Thin_FilmMat
+    second: {fileID: 2100000, guid: c470ad9c7fa5a974392350955ce9d4de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_Lens_LensMat
+    second: {fileID: 2100000, guid: c6efc1424e38b55489d5f6aeea883437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_Sensor_Plastic_BlackMat
+    second: {fileID: 2100000, guid: a5fdcfaca39e3e046962bd734f0349c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lens_1_LensMat
+    second: {fileID: 2100000, guid: 8faf28bde354eff4da706170a238bf33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lens_2_LensMat
+    second: {fileID: 2100000, guid: 65eb6c65a14f2c1428e7ed9bb5c9f4de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lens_Glass_01_Plastic_BlackMat
+    second: {fileID: 2100000, guid: 2da247f6741365b408478013f5fcb98c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lens_Glass_01_Thin_FilmMat
+    second: {fileID: 2100000, guid: 61a7d8e663ff1f34d916b850863a8ffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lens_Holder_Display_Rim_Plastic_(Riough)Mat
+    second: {fileID: 2100000, guid: 012edc2197c817a4b86c901bd75dd970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lens_Ring_Space_Gray_(Shiny_Parts)Mat
+    second: {fileID: 2100000, guid: ab9e80f5583740548b37eebcf6c97f15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Net_1_Ground_2_BlackMat
+    second: {fileID: 2100000, guid: 8f4934ee4c2b13a40a8e6a1791ad449d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Net_1_Ground_3_BlackMat
+    second: {fileID: 2100000, guid: 8cd7092c2ccc172488cceb5e639db5e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Net_1_Ground_4_BlackMat
+    second: {fileID: 2100000, guid: 536914377cee0e84bbd9c2374ce78592, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Net_1_Ground_BlackMat
+    second: {fileID: 2100000, guid: f9341a74756709149a5087fb2ffc6b03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Net_1_Plastic_BlackMat
+    second: {fileID: 2100000, guid: 2e8b2dd9ed3e6284aacb08f554af69f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Net_2_Plastic_BlackMat
+    second: {fileID: 2100000, guid: 7adeaa5445eeac645b47898ffe91c9e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Net_3_Plastic_BlackMat
+    second: {fileID: 2100000, guid: df7fb689b14e2184ea2e27d39d26e40d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Net_4_Plastic_BlackMat
+    second: {fileID: 2100000, guid: 92ce5819ecd686b478764bce1c47c50a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Bottom_Gray_PlasticMat
+    second: {fileID: 2100000, guid: 1f98ffb7c53d743448495520b90021c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Top_Gray_PlasticMat
+    second: {fileID: 2100000, guid: cc471929ec0ba5e49afc268a5f871646, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screw_01_Space_GrayMat
+    second: {fileID: 2100000, guid: 25a6dfef9bec8e0419f245b1b9093156, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sensor_Glass_Plastic_BlackMat
+    second: {fileID: 2100000, guid: 0e8372cfe51a6a14ea6fe3c34d544926, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sim_Slot_Space_GrayMat
+    second: {fileID: 2100000, guid: 3eec94c74a4d0c4448ff8ffe5ade6bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stereo_Jack_Gray_PlasticMat
+    second: {fileID: 2100000, guid: 056afa5d405014142b48749ab0b84ee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Switch_Space_GrayMat
+    second: {fileID: 2100000, guid: 3c5e228ce43491049911617017132564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Switch_Space_Gray_(Shiny_Parts)Mat
+    second: {fileID: 2100000, guid: 8f617a8ec932e67499111b8a6246d518, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

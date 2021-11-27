@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ignore_Teleport
+  - FirstZombie
+  - Ramp
+  - TargetCube
+  - TargetCubicle
+  - TargetCamera
+  - FlashLightTag
+  - ChairTag
+  - LaptopTag
+  - PlantTag
+  - BallTag
+  - Grabbable
+  - GrabbableSurvivor
+  - GrabbableCrawlerX
+  - GrabbableChasingCrawler
+  - GrabbableCrawler
+  - GrabbableCrawlerCopy
+  - GrabbableSurvivorZombie
+  - VendingMachineButton
+  - FlashLight
+  - FlashLightTarget
+  - FlashLightVendingMachine
+  - SodaVendingMachine
+  - GrabbableZombieToEnable
+  - GrabbableZombieToGetUp
+  - GrabbableMario
+  - GrabbableCeiling
+  - GrabbableLamp
+  - GrabbablePrincess
+  - GrabbableInteractionLadder
+  - GrabbableLadder
+  - VRone
+  - VRtwo
+  - BlackScreen
+  - RightHand
+  - WatchBackLight
+  - LeftHand
+  - testTeleport
+  - PoleLight
+  - PoleLight2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - rampLayer
+  - Grab
+  - Body
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
