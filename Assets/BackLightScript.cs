@@ -12,7 +12,7 @@ public class BackLightScript : MonoBehaviour
     // Start is called before the first frame update
     private void OnTriggerEnter(Collider other)
     {
-        onOFF.text = "HELLO";
+        
         if (other.CompareTag("LeftHand"))
         {
             if (count % 2 == 0)

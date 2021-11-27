@@ -27,7 +27,7 @@ public class ProjectTimer : MonoBehaviour
         if (theTime <= TimeSpan.Zero)
         {
             isActive = false;
-            watchAngle.text = "Finished";
+            watchAngle.text = "Timer";
         }
 
 
