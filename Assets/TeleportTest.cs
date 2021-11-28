@@ -37,7 +37,7 @@ public class TeleportTest : MonoBehaviour
     void changeToR2Position()
     {
 
-        player.transform.position = player.transform.position + new Vector3(objR2.position.x+2, objR2.position.y, objR2.position.z+2);
+        player.transform.position = player.transform.position + new Vector3(objR2.position.x+3, objR2.position.y, objR2.position.z+3);
         RotateWorld.isChangeR2 = false;
         TestMark.test = false;
     }
